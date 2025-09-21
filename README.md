@@ -1,6 +1,6 @@
 # Hi, I’m @edawite
 
-#Edjutawee Dawit
+Edjutawee Dawit
 
 
 AI @ Purdue
