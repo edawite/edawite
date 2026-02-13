@@ -5,4 +5,4 @@ Edjutawee Dawit
 
 AI @ Purdue
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edawite&count_private=true) 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edawite)
